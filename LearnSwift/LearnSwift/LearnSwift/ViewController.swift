@@ -13,15 +13,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        var a = ClassA()
-        print(a.name)
+//        var a = ClassA()
+//        print(a.name)
 //        testBaseData()
 //        testStringAndSet()
 //        testSymbol()
 //        testFunAndBlock()
 //        testOperator()
 //        testStructAndClass()
-        memoryTest()
+//        memoryTest()
+        testExterntion()
     }
 
 

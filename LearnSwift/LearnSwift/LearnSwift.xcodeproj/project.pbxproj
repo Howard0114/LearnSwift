@@ -23,6 +23,7 @@
 		0BF3773C243C992B00343552 /* 05_高级运算符.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF3773B243C992B00343552 /* 05_高级运算符.swift */; };
 		0BF3773E243D668700343552 /* 06_类和结构体.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF3773D243D668700343552 /* 06_类和结构体.swift */; };
 		0BF37740243ED9B900343552 /* 07_内存管理.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF3773F243ED9B900343552 /* 07_内存管理.swift */; };
+		0BF3774224404A6F00343552 /* 08_类型转换_泛型_扩展_协议.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF3774124404A6F00343552 /* 08_类型转换_泛型_扩展_协议.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		0BF3773B243C992B00343552 /* 05_高级运算符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05_高级运算符.swift"; sourceTree = "<group>"; };
 		0BF3773D243D668700343552 /* 06_类和结构体.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06_类和结构体.swift"; sourceTree = "<group>"; };
 		0BF3773F243ED9B900343552 /* 07_内存管理.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07_内存管理.swift"; sourceTree = "<group>"; };
+		0BF3774124404A6F00343552 /* 08_类型转换_泛型_扩展_协议.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08_类型转换_泛型_扩展_协议.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				0BF3773B243C992B00343552 /* 05_高级运算符.swift */,
 				0BF3773D243D668700343552 /* 06_类和结构体.swift */,
 				0BF3773F243ED9B900343552 /* 07_内存管理.swift */,
+				0BF3774124404A6F00343552 /* 08_类型转换_泛型_扩展_协议.swift */,
 				0BF37707243AD2B100343552 /* Main.storyboard */,
 				0BF3770A243AD2B300343552 /* Assets.xcassets */,
 				0BF3770C243AD2B300343552 /* LaunchScreen.storyboard */,
@@ -293,6 +296,7 @@
 				0BF3773A243C053600343552 /* 04_函数与block.swift in Sources */,
 				0BF37732243AD35800343552 /* File1.swift in Sources */,
 				0BF37734243B003900343552 /* 01_基本数据类型.swift in Sources */,
+				0BF3774224404A6F00343552 /* 08_类型转换_泛型_扩展_协议.swift in Sources */,
 				0BF3773E243D668700343552 /* 06_类和结构体.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
